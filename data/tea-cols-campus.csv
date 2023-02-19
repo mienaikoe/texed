@@ -1,0 +1,901 @@
+tea_id,name
+CAMPUS,Campus Number
+CB0C4X16D,Campus 2016 4-Year Longitudinal: African American Denominator
+CA0C4X16D,Campus 2016 4-Year Longitudinal: All Students Denominator
+CI0C4X16D,Campus 2016 4-Year Longitudinal: American Indian Denominator
+C30C4X16D,Campus 2016 4-Year Longitudinal: Asian Denominator
+CR0C4X16D,Campus 2016 4-Year Longitudinal: At Risk Denominator
+CE0C4X16D,Campus 2016 4-Year Longitudinal: Econ Disadv Denominator
+CF0C4X16D,Campus 2016 4-Year Longitudinal: Female Denominator
+CH0C4X16D,Campus 2016 4-Year Longitudinal: Hispanic Denominator
+CL0C4X16D,Campus 2016 4-Year Longitudinal: LEP Denominator
+CM0C4X16D,Campus 2016 4-Year Longitudinal: Male Denominator
+C40C4X16D,Campus 2016 4-Year Longitudinal: Pacific Islander Denominator
+CS0C4X16D,Campus 2016 4-Year Longitudinal: Special Ed Denominator
+C20C4X16D,Campus 2016 4-Year Longitudinal: Two or More Races Denominator
+CW0C4X16D,Campus 2016 4-Year Longitudinal: White Denominator
+CBNC4X16N,Campus 2016 4-Year Longitudinal: [Continuers] for African American Numerator
+CBNC4X16R,Campus 2016 4-Year Longitudinal: [Continuers] for African American Rate
+CANC4X16N,Campus 2016 4-Year Longitudinal: [Continuers] for All Students Numerator
+CANC4X16R,Campus 2016 4-Year Longitudinal: [Continuers] for All Students Rate
+CINC4X16N,Campus 2016 4-Year Longitudinal: [Continuers] for American Indian Numerator
+CINC4X16R,Campus 2016 4-Year Longitudinal: [Continuers] for American Indian Rate
+C3NC4X16N,Campus 2016 4-Year Longitudinal: [Continuers] for Asian Numerator
+C3NC4X16R,Campus 2016 4-Year Longitudinal: [Continuers] for Asian Rate
+CRNC4X16N,Campus 2016 4-Year Longitudinal: [Continuers] for At Risk Numerator
+CRNC4X16R,Campus 2016 4-Year Longitudinal: [Continuers] for At Risk Rate
+CENC4X16N,Campus 2016 4-Year Longitudinal: [Continuers] for Econ Disadv Numerator
+CENC4X16R,Campus 2016 4-Year Longitudinal: [Continuers] for Econ Disadv Rate
+CFNC4X16N,Campus 2016 4-Year Longitudinal: [Continuers] for Female Numerator
+CFNC4X16R,Campus 2016 4-Year Longitudinal: [Continuers] for Female Rate
+CHNC4X16N,Campus 2016 4-Year Longitudinal: [Continuers] for Hispanic Numerator
+CHNC4X16R,Campus 2016 4-Year Longitudinal: [Continuers] for Hispanic Rate
+CLNC4X16N,Campus 2016 4-Year Longitudinal: [Continuers] for LEP Numerator
+CLNC4X16R,Campus 2016 4-Year Longitudinal: [Continuers] for LEP Rate
+CMNC4X16N,Campus 2016 4-Year Longitudinal: [Continuers] for Male Numerator
+CMNC4X16R,Campus 2016 4-Year Longitudinal: [Continuers] for Male Rate
+C4NC4X16N,Campus 2016 4-Year Longitudinal: [Continuers] for Pacific Islander Numerator
+C4NC4X16R,Campus 2016 4-Year Longitudinal: [Continuers] for Pacific Islander Rate
+CSNC4X16N,Campus 2016 4-Year Longitudinal: [Continuers] for Special Ed Numerator
+CSNC4X16R,Campus 2016 4-Year Longitudinal: [Continuers] for Special Ed Rate
+C2NC4X16N,Campus 2016 4-Year Longitudinal: [Continuers] for Two or More Races Numerator
+C2NC4X16R,Campus 2016 4-Year Longitudinal: [Continuers] for Two or More Races Rate
+CWNC4X16N,Campus 2016 4-Year Longitudinal: [Continuers] for White Numerator
+CWNC4X16R,Campus 2016 4-Year Longitudinal: [Continuers] for White Rate
+CBDC4X16N,Campus 2016 4-Year Longitudinal: [Dropout] for African American Numerator
+CBDC4X16R,Campus 2016 4-Year Longitudinal: [Dropout] for African American Rate
+CADC4X16N,Campus 2016 4-Year Longitudinal: [Dropout] for All Students Numerator
+CADC4X16R,Campus 2016 4-Year Longitudinal: [Dropout] for All Students Rate
+CIDC4X16N,Campus 2016 4-Year Longitudinal: [Dropout] for American Indian Numerator
+CIDC4X16R,Campus 2016 4-Year Longitudinal: [Dropout] for American Indian Rate
+C3DC4X16N,Campus 2016 4-Year Longitudinal: [Dropout] for Asian Numerator
+C3DC4X16R,Campus 2016 4-Year Longitudinal: [Dropout] for Asian Rate
+CRDC4X16N,Campus 2016 4-Year Longitudinal: [Dropout] for At Risk Numerator
+CRDC4X16R,Campus 2016 4-Year Longitudinal: [Dropout] for At Risk Rate
+CEDC4X16N,Campus 2016 4-Year Longitudinal: [Dropout] for Econ Disadv Numerator
+CEDC4X16R,Campus 2016 4-Year Longitudinal: [Dropout] for Econ Disadv Rate
+CFDC4X16N,Campus 2016 4-Year Longitudinal: [Dropout] for Female Numerator
+CFDC4X16R,Campus 2016 4-Year Longitudinal: [Dropout] for Female Rate
+CHDC4X16N,Campus 2016 4-Year Longitudinal: [Dropout] for Hispanic Numerator
+CHDC4X16R,Campus 2016 4-Year Longitudinal: [Dropout] for Hispanic Rate
+CLDC4X16N,Campus 2016 4-Year Longitudinal: [Dropout] for LEP Numerator
+CLDC4X16R,Campus 2016 4-Year Longitudinal: [Dropout] for LEP Rate
+CMDC4X16N,Campus 2016 4-Year Longitudinal: [Dropout] for Male Numerator
+CMDC4X16R,Campus 2016 4-Year Longitudinal: [Dropout] for Male Rate
+C4DC4X16N,Campus 2016 4-Year Longitudinal: [Dropout] for Pacific Islander Numerator
+C4DC4X16R,Campus 2016 4-Year Longitudinal: [Dropout] for Pacific Islander Rate
+CSDC4X16N,Campus 2016 4-Year Longitudinal: [Dropout] for Special Ed Numerator
+CSDC4X16R,Campus 2016 4-Year Longitudinal: [Dropout] for Special Ed Rate
+C2DC4X16N,Campus 2016 4-Year Longitudinal: [Dropout] for Two or More Races Numerator
+C2DC4X16R,Campus 2016 4-Year Longitudinal: [Dropout] for Two or More Races Rate
+CWDC4X16N,Campus 2016 4-Year Longitudinal: [Dropout] for White Numerator
+CWDC4X16R,Campus 2016 4-Year Longitudinal: [Dropout] for White Rate
+CBEC4X16N,Campus 2016 4-Year Longitudinal: [GED Recipients] for African American Numerator
+CBEC4X16R,Campus 2016 4-Year Longitudinal: [GED Recipients] for African American Rate
+CAEC4X16N,Campus 2016 4-Year Longitudinal: [GED Recipients] for All Students Numerator
+CAEC4X16R,Campus 2016 4-Year Longitudinal: [GED Recipients] for All Students Rate
+CIEC4X16N,Campus 2016 4-Year Longitudinal: [GED Recipients] for American Indian Numerator
+CIEC4X16R,Campus 2016 4-Year Longitudinal: [GED Recipients] for American Indian Rate
+C3EC4X16N,Campus 2016 4-Year Longitudinal: [GED Recipients] for Asian Numerator
+C3EC4X16R,Campus 2016 4-Year Longitudinal: [GED Recipients] for Asian Rate
+CREC4X16N,Campus 2016 4-Year Longitudinal: [GED Recipients] for At Risk Numerator
+CREC4X16R,Campus 2016 4-Year Longitudinal: [GED Recipients] for At Risk Rate
+CEEC4X16N,Campus 2016 4-Year Longitudinal: [GED Recipients] for Econ Disadv Numerator
+CEEC4X16R,Campus 2016 4-Year Longitudinal: [GED Recipients] for Econ Disadv Rate
+CFEC4X16N,Campus 2016 4-Year Longitudinal: [GED Recipients] for Female Numerator
+CFEC4X16R,Campus 2016 4-Year Longitudinal: [GED Recipients] for Female Rate
+CHEC4X16N,Campus 2016 4-Year Longitudinal: [GED Recipients] for Hispanic Numerator
+CHEC4X16R,Campus 2016 4-Year Longitudinal: [GED Recipients] for Hispanic Rate
+CLEC4X16N,Campus 2016 4-Year Longitudinal: [GED Recipients] for LEP Numerator
+CLEC4X16R,Campus 2016 4-Year Longitudinal: [GED Recipients] for LEP Rate
+CMEC4X16N,Campus 2016 4-Year Longitudinal: [GED Recipients] for Male Numerator
+CMEC4X16R,Campus 2016 4-Year Longitudinal: [GED Recipients] for Male Rate
+C4EC4X16N,Campus 2016 4-Year Longitudinal: [GED Recipients] for Pacific Islander Numerator
+C4EC4X16R,Campus 2016 4-Year Longitudinal: [GED Recipients] for Pacific Islander Rate
+CSEC4X16N,Campus 2016 4-Year Longitudinal: [GED Recipients] for Special Ed Numerator
+CSEC4X16R,Campus 2016 4-Year Longitudinal: [GED Recipients] for Special Ed Rate
+C2EC4X16N,Campus 2016 4-Year Longitudinal: [GED Recipients] for Two or More Races Numerator
+C2EC4X16R,Campus 2016 4-Year Longitudinal: [GED Recipients] for Two or More Races Rate
+CWEC4X16N,Campus 2016 4-Year Longitudinal: [GED Recipients] for White Numerator
+CWEC4X16R,Campus 2016 4-Year Longitudinal: [GED Recipients] for White Rate
+CB2C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for African American Numerator
+CB2C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for African American Rate
+CA2C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for All Students Numerator
+CA2C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for All Students Rate
+CI2C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for American Indian Numerator
+CI2C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for American Indian Rate
+C32C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for Asian Numerator
+C32C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for Asian Rate
+CR2C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for At Risk Numerator
+CR2C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for At Risk Rate
+CE2C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for Econ Disadv Numerator
+CE2C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for Econ Disadv Rate
+CF2C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for Female Numerator
+CF2C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for Female Rate
+CH2C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for Hispanic Numerator
+CH2C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for Hispanic Rate
+CL2C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for LEP Numerator
+CL2C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for LEP Rate
+CM2C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for Male Numerator
+CM2C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for Male Rate
+C42C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for Pacific Islander Numerator
+C42C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for Pacific Islander Rate
+CS2C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for Special Ed Numerator
+CS2C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for Special Ed Rate
+C22C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for Two or More Races Numerator
+C22C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for Two or More Races Rate
+CW2C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for White Numerator
+CW2C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients + Continuers] for White Rate
+CB3C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for African American Numerator
+CB3C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for African American Rate
+CA3C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for All Students Numerator
+CA3C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for All Students Rate
+CI3C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for American Indian Numerator
+CI3C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for American Indian Rate
+C33C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for Asian Numerator
+C33C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for Asian Rate
+CR3C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for At Risk Numerator
+CR3C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for At Risk Rate
+CE3C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for Econ Disadv Numerator
+CE3C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for Econ Disadv Rate
+CF3C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for Female Numerator
+CF3C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for Female Rate
+CH3C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for Hispanic Numerator
+CH3C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for Hispanic Rate
+CL3C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for LEP Numerator
+CL3C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for LEP Rate
+CM3C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for Male Numerator
+CM3C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for Male Rate
+C43C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for Pacific Islander Numerator
+C43C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for Pacific Islander Rate
+CS3C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for Special Ed Numerator
+CS3C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for Special Ed Rate
+C23C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for Two or More Races Numerator
+C23C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for Two or More Races Rate
+CW3C4X16N,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for White Numerator
+CW3C4X16R,Campus 2016 4-Year Longitudinal: [Graduates + GED Recipients] for White Rate
+CBGC4X16N,Campus 2016 4-Year Longitudinal: [Graduates] for African American Numerator
+CBGC4X16R,Campus 2016 4-Year Longitudinal: [Graduates] for African American Rate
+CAGC4X16N,Campus 2016 4-Year Longitudinal: [Graduates] for All Students Numerator
+CAGC4X16R,Campus 2016 4-Year Longitudinal: [Graduates] for All Students Rate
+CIGC4X16N,Campus 2016 4-Year Longitudinal: [Graduates] for American Indian Numerator
+CIGC4X16R,Campus 2016 4-Year Longitudinal: [Graduates] for American Indian Rate
+C3GC4X16N,Campus 2016 4-Year Longitudinal: [Graduates] for Asian Numerator
+C3GC4X16R,Campus 2016 4-Year Longitudinal: [Graduates] for Asian Rate
+CRGC4X16N,Campus 2016 4-Year Longitudinal: [Graduates] for At Risk Numerator
+CRGC4X16R,Campus 2016 4-Year Longitudinal: [Graduates] for At Risk Rate
+CEGC4X16N,Campus 2016 4-Year Longitudinal: [Graduates] for Econ Disadv Numerator
+CEGC4X16R,Campus 2016 4-Year Longitudinal: [Graduates] for Econ Disadv Rate
+CFGC4X16N,Campus 2016 4-Year Longitudinal: [Graduates] for Female Numerator
+CFGC4X16R,Campus 2016 4-Year Longitudinal: [Graduates] for Female Rate
+CHGC4X16N,Campus 2016 4-Year Longitudinal: [Graduates] for Hispanic Numerator
+CHGC4X16R,Campus 2016 4-Year Longitudinal: [Graduates] for Hispanic Rate
+CLGC4X16N,Campus 2016 4-Year Longitudinal: [Graduates] for LEP Numerator
+CLGC4X16R,Campus 2016 4-Year Longitudinal: [Graduates] for LEP Rate
+CMGC4X16N,Campus 2016 4-Year Longitudinal: [Graduates] for Male Numerator
+CMGC4X16R,Campus 2016 4-Year Longitudinal: [Graduates] for Male Rate
+C4GC4X16N,Campus 2016 4-Year Longitudinal: [Graduates] for Pacific Islander Numerator
+C4GC4X16R,Campus 2016 4-Year Longitudinal: [Graduates] for Pacific Islander Rate
+CSGC4X16N,Campus 2016 4-Year Longitudinal: [Graduates] for Special Ed Numerator
+CSGC4X16R,Campus 2016 4-Year Longitudinal: [Graduates] for Special Ed Rate
+C2GC4X16N,Campus 2016 4-Year Longitudinal: [Graduates] for Two or More Races Numerator
+C2GC4X16R,Campus 2016 4-Year Longitudinal: [Graduates] for Two or More Races Rate
+CWGC4X16N,Campus 2016 4-Year Longitudinal: [Graduates] for White Numerator
+CWGC4X16R,Campus 2016 4-Year Longitudinal: [Graduates] for White Rate
+CB0C4X17D,Campus 2017 4-Year Longitudinal: African American Denominator
+CA0C4X17D,Campus 2017 4-Year Longitudinal: All Students Denominator
+CI0C4X17D,Campus 2017 4-Year Longitudinal: American Indian Denominator
+C30C4X17D,Campus 2017 4-Year Longitudinal: Asian Denominator
+CR0C4X17D,Campus 2017 4-Year Longitudinal: At Risk Denominator
+CE0C4X17D,Campus 2017 4-Year Longitudinal: Econ Disadv Denominator
+CF0C4X17D,Campus 2017 4-Year Longitudinal: Female Denominator
+CH0C4X17D,Campus 2017 4-Year Longitudinal: Hispanic Denominator
+CL0C4X17D,Campus 2017 4-Year Longitudinal: LEP Denominator
+CM0C4X17D,Campus 2017 4-Year Longitudinal: Male Denominator
+C40C4X17D,Campus 2017 4-Year Longitudinal: Pacific Islander Denominator
+CS0C4X17D,Campus 2017 4-Year Longitudinal: Special Ed Denominator
+C20C4X17D,Campus 2017 4-Year Longitudinal: Two or More Races Denominator
+CW0C4X17D,Campus 2017 4-Year Longitudinal: White Denominator
+CBNC4X17N,Campus 2017 4-Year Longitudinal: [Continuers] for African American Numerator
+CBNC4X17R,Campus 2017 4-Year Longitudinal: [Continuers] for African American Rate
+CANC4X17N,Campus 2017 4-Year Longitudinal: [Continuers] for All Students Numerator
+CANC4X17R,Campus 2017 4-Year Longitudinal: [Continuers] for All Students Rate
+CINC4X17N,Campus 2017 4-Year Longitudinal: [Continuers] for American Indian Numerator
+CINC4X17R,Campus 2017 4-Year Longitudinal: [Continuers] for American Indian Rate
+C3NC4X17N,Campus 2017 4-Year Longitudinal: [Continuers] for Asian Numerator
+C3NC4X17R,Campus 2017 4-Year Longitudinal: [Continuers] for Asian Rate
+CRNC4X17N,Campus 2017 4-Year Longitudinal: [Continuers] for At Risk Numerator
+CRNC4X17R,Campus 2017 4-Year Longitudinal: [Continuers] for At Risk Rate
+CENC4X17N,Campus 2017 4-Year Longitudinal: [Continuers] for Econ Disadv Numerator
+CENC4X17R,Campus 2017 4-Year Longitudinal: [Continuers] for Econ Disadv Rate
+CFNC4X17N,Campus 2017 4-Year Longitudinal: [Continuers] for Female Numerator
+CFNC4X17R,Campus 2017 4-Year Longitudinal: [Continuers] for Female Rate
+CHNC4X17N,Campus 2017 4-Year Longitudinal: [Continuers] for Hispanic Numerator
+CHNC4X17R,Campus 2017 4-Year Longitudinal: [Continuers] for Hispanic Rate
+CLNC4X17N,Campus 2017 4-Year Longitudinal: [Continuers] for LEP Numerator
+CLNC4X17R,Campus 2017 4-Year Longitudinal: [Continuers] for LEP Rate
+CMNC4X17N,Campus 2017 4-Year Longitudinal: [Continuers] for Male Numerator
+CMNC4X17R,Campus 2017 4-Year Longitudinal: [Continuers] for Male Rate
+C4NC4X17N,Campus 2017 4-Year Longitudinal: [Continuers] for Pacific Islander Numerator
+C4NC4X17R,Campus 2017 4-Year Longitudinal: [Continuers] for Pacific Islander Rate
+CSNC4X17N,Campus 2017 4-Year Longitudinal: [Continuers] for Special Ed Numerator
+CSNC4X17R,Campus 2017 4-Year Longitudinal: [Continuers] for Special Ed Rate
+C2NC4X17N,Campus 2017 4-Year Longitudinal: [Continuers] for Two or More Races Numerator
+C2NC4X17R,Campus 2017 4-Year Longitudinal: [Continuers] for Two or More Races Rate
+CWNC4X17N,Campus 2017 4-Year Longitudinal: [Continuers] for White Numerator
+CWNC4X17R,Campus 2017 4-Year Longitudinal: [Continuers] for White Rate
+CBDC4X17N,Campus 2017 4-Year Longitudinal: [Dropout] for African American Numerator
+CBDC4X17R,Campus 2017 4-Year Longitudinal: [Dropout] for African American Rate
+CADC4X17N,Campus 2017 4-Year Longitudinal: [Dropout] for All Students Numerator
+CADC4X17R,Campus 2017 4-Year Longitudinal: [Dropout] for All Students Rate
+CIDC4X17N,Campus 2017 4-Year Longitudinal: [Dropout] for American Indian Numerator
+CIDC4X17R,Campus 2017 4-Year Longitudinal: [Dropout] for American Indian Rate
+C3DC4X17N,Campus 2017 4-Year Longitudinal: [Dropout] for Asian Numerator
+C3DC4X17R,Campus 2017 4-Year Longitudinal: [Dropout] for Asian Rate
+CRDC4X17N,Campus 2017 4-Year Longitudinal: [Dropout] for At Risk Numerator
+CRDC4X17R,Campus 2017 4-Year Longitudinal: [Dropout] for At Risk Rate
+CEDC4X17N,Campus 2017 4-Year Longitudinal: [Dropout] for Econ Disadv Numerator
+CEDC4X17R,Campus 2017 4-Year Longitudinal: [Dropout] for Econ Disadv Rate
+CFDC4X17N,Campus 2017 4-Year Longitudinal: [Dropout] for Female Numerator
+CFDC4X17R,Campus 2017 4-Year Longitudinal: [Dropout] for Female Rate
+CHDC4X17N,Campus 2017 4-Year Longitudinal: [Dropout] for Hispanic Numerator
+CHDC4X17R,Campus 2017 4-Year Longitudinal: [Dropout] for Hispanic Rate
+CLDC4X17N,Campus 2017 4-Year Longitudinal: [Dropout] for LEP Numerator
+CLDC4X17R,Campus 2017 4-Year Longitudinal: [Dropout] for LEP Rate
+CMDC4X17N,Campus 2017 4-Year Longitudinal: [Dropout] for Male Numerator
+CMDC4X17R,Campus 2017 4-Year Longitudinal: [Dropout] for Male Rate
+C4DC4X17N,Campus 2017 4-Year Longitudinal: [Dropout] for Pacific Islander Numerator
+C4DC4X17R,Campus 2017 4-Year Longitudinal: [Dropout] for Pacific Islander Rate
+CSDC4X17N,Campus 2017 4-Year Longitudinal: [Dropout] for Special Ed Numerator
+CSDC4X17R,Campus 2017 4-Year Longitudinal: [Dropout] for Special Ed Rate
+C2DC4X17N,Campus 2017 4-Year Longitudinal: [Dropout] for Two or More Races Numerator
+C2DC4X17R,Campus 2017 4-Year Longitudinal: [Dropout] for Two or More Races Rate
+CWDC4X17N,Campus 2017 4-Year Longitudinal: [Dropout] for White Numerator
+CWDC4X17R,Campus 2017 4-Year Longitudinal: [Dropout] for White Rate
+CB2C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for African American Numerator
+CB2C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for African American Rate
+CA2C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for All Students Numerator
+CA2C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for All Students Rate
+CI2C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for American Indian Numerator
+CI2C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for American Indian Rate
+C32C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Asian Numerator
+C32C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Asian Rate
+CR2C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for At Risk Numerator
+CR2C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for At Risk Rate
+CE2C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Econ Disadv Numerator
+CE2C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Econ Disadv Rate
+CF2C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Female Numerator
+CF2C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Female Rate
+CH2C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Hispanic Numerator
+CH2C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Hispanic Rate
+CL2C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for LEP Numerator
+CL2C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for LEP Rate
+CM2C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Male Numerator
+CM2C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Male Rate
+C42C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Pacific Islander Numerator
+C42C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Pacific Islander Rate
+CS2C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Special Ed Numerator
+CS2C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Special Ed Rate
+C22C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Two or More Races Numerator
+C22C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Two or More Races Rate
+CW2C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for White Numerator
+CW2C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for White Rate
+CB3C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for African American Numerator
+CB3C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for African American Rate
+CA3C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for All Students Numerator
+CA3C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for All Students Rate
+CI3C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for American Indian Numerator
+CI3C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for American Indian Rate
+C33C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Asian Numerator
+C33C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Asian Rate
+CR3C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for At Risk Numerator
+CR3C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for At Risk Rate
+CE3C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Econ Disadv Numerator
+CE3C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Econ Disadv Rate
+CF3C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Female Numerator
+CF3C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Female Rate
+CH3C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Hispanic Numerator
+CH3C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Hispanic Rate
+CL3C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for LEP Numerator
+CL3C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for LEP Rate
+CM3C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Male Numerator
+CM3C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Male Rate
+C43C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Pacific Islander Numerator
+C43C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Pacific Islander Rate
+CS3C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Special Ed Numerator
+CS3C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Special Ed Rate
+C23C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Two or More Races Numerator
+C23C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Two or More Races Rate
+CW3C4X17N,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for White Numerator
+CW3C4X17R,Campus 2017 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for White Rate
+CBGC4X17N,Campus 2017 4-Year Longitudinal: [Graduates] for African American Numerator
+CBGC4X17R,Campus 2017 4-Year Longitudinal: [Graduates] for African American Rate
+CAGC4X17N,Campus 2017 4-Year Longitudinal: [Graduates] for All Students Numerator
+CAGC4X17R,Campus 2017 4-Year Longitudinal: [Graduates] for All Students Rate
+CIGC4X17N,Campus 2017 4-Year Longitudinal: [Graduates] for American Indian Numerator
+CIGC4X17R,Campus 2017 4-Year Longitudinal: [Graduates] for American Indian Rate
+C3GC4X17N,Campus 2017 4-Year Longitudinal: [Graduates] for Asian Numerator
+C3GC4X17R,Campus 2017 4-Year Longitudinal: [Graduates] for Asian Rate
+CRGC4X17N,Campus 2017 4-Year Longitudinal: [Graduates] for At Risk Numerator
+CRGC4X17R,Campus 2017 4-Year Longitudinal: [Graduates] for At Risk Rate
+CEGC4X17N,Campus 2017 4-Year Longitudinal: [Graduates] for Econ Disadv Numerator
+CEGC4X17R,Campus 2017 4-Year Longitudinal: [Graduates] for Econ Disadv Rate
+CFGC4X17N,Campus 2017 4-Year Longitudinal: [Graduates] for Female Numerator
+CFGC4X17R,Campus 2017 4-Year Longitudinal: [Graduates] for Female Rate
+CHGC4X17N,Campus 2017 4-Year Longitudinal: [Graduates] for Hispanic Numerator
+CHGC4X17R,Campus 2017 4-Year Longitudinal: [Graduates] for Hispanic Rate
+CLGC4X17N,Campus 2017 4-Year Longitudinal: [Graduates] for LEP Numerator
+CLGC4X17R,Campus 2017 4-Year Longitudinal: [Graduates] for LEP Rate
+CMGC4X17N,Campus 2017 4-Year Longitudinal: [Graduates] for Male Numerator
+CMGC4X17R,Campus 2017 4-Year Longitudinal: [Graduates] for Male Rate
+C4GC4X17N,Campus 2017 4-Year Longitudinal: [Graduates] for Pacific Islander Numerator
+C4GC4X17R,Campus 2017 4-Year Longitudinal: [Graduates] for Pacific Islander Rate
+CSGC4X17N,Campus 2017 4-Year Longitudinal: [Graduates] for Special Ed Numerator
+CSGC4X17R,Campus 2017 4-Year Longitudinal: [Graduates] for Special Ed Rate
+C2GC4X17N,Campus 2017 4-Year Longitudinal: [Graduates] for Two or More Races Numerator
+C2GC4X17R,Campus 2017 4-Year Longitudinal: [Graduates] for Two or More Races Rate
+CWGC4X17N,Campus 2017 4-Year Longitudinal: [Graduates] for White Numerator
+CWGC4X17R,Campus 2017 4-Year Longitudinal: [Graduates] for White Rate
+CBEC4X17N,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for African American Numerator
+CBEC4X17R,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for African American Rate
+CAEC4X17N,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for All Students Numerator
+CAEC4X17R,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for All Students Rate
+CIEC4X17N,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for American Indian Numerator
+CIEC4X17R,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for American Indian Rate
+C3EC4X17N,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for Asian Numerator
+C3EC4X17R,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for Asian Rate
+CREC4X17N,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for At Risk Numerator
+CREC4X17R,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for At Risk Rate
+CEEC4X17N,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for Econ Disadv Numerator
+CEEC4X17R,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for Econ Disadv Rate
+CFEC4X17N,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for Female Numerator
+CFEC4X17R,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for Female Rate
+CHEC4X17N,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for Hispanic Numerator
+CHEC4X17R,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for Hispanic Rate
+CLEC4X17N,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for LEP Numerator
+CLEC4X17R,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for LEP Rate
+CMEC4X17N,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for Male Numerator
+CMEC4X17R,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for Male Rate
+C4EC4X17N,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for Pacific Islander Numerator
+C4EC4X17R,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for Pacific Islander Rate
+CSEC4X17N,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for Special Ed Numerator
+CSEC4X17R,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for Special Ed Rate
+C2EC4X17N,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for Two or More Races Numerator
+C2EC4X17R,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for Two or More Races Rate
+CWEC4X17N,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for White Numerator
+CWEC4X17R,Campus 2017 4-Year Longitudinal: [TxCHSE Recipients] for White Rate
+CB0C416D,Campus 2016 4-Year Longitudinal: African American Denominator (Federal Graduation without Exclusions)
+CA0C416D,Campus 2016 4-Year Longitudinal: All Students Denominator (Federal Graduation without Exclusions)
+CI0C416D,Campus 2016 4-Year Longitudinal: American Indian Denominator (Federal Graduation without Exclusions)
+C30C416D,Campus 2016 4-Year Longitudinal: Asian Denominator (Federal Graduation without Exclusions)
+CR0C416D,Campus 2016 4-Year Longitudinal: At Risk Denominator (Federal Graduation without Exclusions)
+CE0C416D,Campus 2016 4-Year Longitudinal: Econ Disadv Denominator (Federal Graduation without Exclusions)
+CF0C416D,Campus 2016 4-Year Longitudinal: Female Denominator (Federal Graduation without Exclusions)
+CH0C416D,Campus 2016 4-Year Longitudinal: Hispanic Denominator (Federal Graduation without Exclusions)
+CL0C416D,Campus 2016 4-Year Longitudinal: LEP Denominator (Federal Graduation without Exclusions)
+CM0C416D,Campus 2016 4-Year Longitudinal: Male Denominator (Federal Graduation without Exclusions)
+C40C416D,Campus 2016 4-Year Longitudinal: Pacific Islander Denominator (Federal Graduation without Exclusions)
+CS0C416D,Campus 2016 4-Year Longitudinal: Special Ed Denominator (Federal Graduation without Exclusions)
+C20C416D,Campus 2016 4-Year Longitudinal: Two or More Races Denominator (Federal Graduation without Exclusions)
+CW0C416D,Campus 2016 4-Year Longitudinal: White Denominator (Federal Graduation without Exclusions)
+CBGC416N,Campus 2016 4-Year Longitudinal: [Graduates] for African American Numerator (Federal Graduation without Exclusions)
+CBGC416R,Campus 2016 4-Year Longitudinal: [Graduates] for African American Rate (Federal Graduation without Exclusions)
+CAGC416N,Campus 2016 4-Year Longitudinal: [Graduates] for All Students Numerator (Federal Graduation without Exclusions)
+CAGC416R,Campus 2016 4-Year Longitudinal: [Graduates] for All Students Rate (Federal Graduation without Exclusions)
+CIGC416N,Campus 2016 4-Year Longitudinal: [Graduates] for American Indian Numerator (Federal Graduation without Exclusions)
+CIGC416R,Campus 2016 4-Year Longitudinal: [Graduates] for American Indian Rate (Federal Graduation without Exclusions)
+C3GC416N,Campus 2016 4-Year Longitudinal: [Graduates] for Asian Numerator (Federal Graduation without Exclusions)
+C3GC416R,Campus 2016 4-Year Longitudinal: [Graduates] for Asian Rate (Federal Graduation without Exclusions)
+CRGC416N,Campus 2016 4-Year Longitudinal: [Graduates] for At Risk Numerator (Federal Graduation without Exclusions)
+CRGC416R,Campus 2016 4-Year Longitudinal: [Graduates] for At Risk Rate (Federal Graduation without Exclusions)
+CEGC416N,Campus 2016 4-Year Longitudinal: [Graduates] for Econ Disadv Numerator (Federal Graduation without Exclusions)
+CEGC416R,Campus 2016 4-Year Longitudinal: [Graduates] for Econ Disadv Rate (Federal Graduation without Exclusions)
+CFGC416N,Campus 2016 4-Year Longitudinal: [Graduates] for Female Numerator (Federal Graduation without Exclusions)
+CFGC416R,Campus 2016 4-Year Longitudinal: [Graduates] for Female Rate (Federal Graduation without Exclusions)
+CHGC416N,Campus 2016 4-Year Longitudinal: [Graduates] for Hispanic Numerator (Federal Graduation without Exclusions)
+CHGC416R,Campus 2016 4-Year Longitudinal: [Graduates] for Hispanic Rate (Federal Graduation without Exclusions)
+CLGC416N,Campus 2016 4-Year Longitudinal: [Graduates] for LEP Numerator (Federal Graduation without Exclusions)
+CLGC416R,Campus 2016 4-Year Longitudinal: [Graduates] for LEP Rate (Federal Graduation without Exclusions)
+CMGC416N,Campus 2016 4-Year Longitudinal: [Graduates] for Male Numerator (Federal Graduation without Exclusions)
+CMGC416R,Campus 2016 4-Year Longitudinal: [Graduates] for Male Rate (Federal Graduation without Exclusions)
+C4GC416N,Campus 2016 4-Year Longitudinal: [Graduates] for Pacific Islander Numerator (Federal Graduation without Exclusions)
+C4GC416R,Campus 2016 4-Year Longitudinal: [Graduates] for Pacific Islander Rate (Federal Graduation without Exclusions)
+CSGC416N,Campus 2016 4-Year Longitudinal: [Graduates] for Special Ed Numerator (Federal Graduation without Exclusions)
+CSGC416R,Campus 2016 4-Year Longitudinal: [Graduates] for Special Ed Rate (Federal Graduation without Exclusions)
+C2GC416N,Campus 2016 4-Year Longitudinal: [Graduates] for Two or More Races Numerator (Federal Graduation without Exclusions)
+C2GC416R,Campus 2016 4-Year Longitudinal: [Graduates] for Two or More Races Rate (Federal Graduation without Exclusions)
+CWGC416N,Campus 2016 4-Year Longitudinal: [Graduates] for White Numerator (Federal Graduation without Exclusions)
+CWGC416R,Campus 2016 4-Year Longitudinal: [Graduates] for White Rate (Federal Graduation without Exclusions)
+CB0C417D,Campus 2017 4-Year Longitudinal: African American Denominator (Federal Graduation without Exclusions)
+CA0C417D,Campus 2017 4-Year Longitudinal: All Students Denominator (Federal Graduation without Exclusions)
+CI0C417D,Campus 2017 4-Year Longitudinal: American Indian Denominator (Federal Graduation without Exclusions)
+C30C417D,Campus 2017 4-Year Longitudinal: Asian Denominator (Federal Graduation without Exclusions)
+CR0C417D,Campus 2017 4-Year Longitudinal: At Risk Denominator (Federal Graduation without Exclusions)
+CE0C417D,Campus 2017 4-Year Longitudinal: Econ Disadv Denominator (Federal Graduation without Exclusions)
+CF0C417D,Campus 2017 4-Year Longitudinal: Female Denominator (Federal Graduation without Exclusions)
+CH0C417D,Campus 2017 4-Year Longitudinal: Hispanic Denominator (Federal Graduation without Exclusions)
+CL0C417D,Campus 2017 4-Year Longitudinal: LEP Denominator (Federal Graduation without Exclusions)
+CM0C417D,Campus 2017 4-Year Longitudinal: Male Denominator (Federal Graduation without Exclusions)
+C40C417D,Campus 2017 4-Year Longitudinal: Pacific Islander Denominator (Federal Graduation without Exclusions)
+CS0C417D,Campus 2017 4-Year Longitudinal: Special Ed Denominator (Federal Graduation without Exclusions)
+C20C417D,Campus 2017 4-Year Longitudinal: Two or More Races Denominator (Federal Graduation without Exclusions)
+CW0C417D,Campus 2017 4-Year Longitudinal: White Denominator (Federal Graduation without Exclusions)
+CBGC417N,Campus 2017 4-Year Longitudinal: [Graduates] for African American Numerator (Federal Graduation without Exclusions)
+CBGC417R,Campus 2017 4-Year Longitudinal: [Graduates] for African American Rate (Federal Graduation without Exclusions)
+CAGC417N,Campus 2017 4-Year Longitudinal: [Graduates] for All Students Numerator (Federal Graduation without Exclusions)
+CAGC417R,Campus 2017 4-Year Longitudinal: [Graduates] for All Students Rate (Federal Graduation without Exclusions)
+CIGC417N,Campus 2017 4-Year Longitudinal: [Graduates] for American Indian Numerator (Federal Graduation without Exclusions)
+CIGC417R,Campus 2017 4-Year Longitudinal: [Graduates] for American Indian Rate (Federal Graduation without Exclusions)
+C3GC417N,Campus 2017 4-Year Longitudinal: [Graduates] for Asian Numerator (Federal Graduation without Exclusions)
+C3GC417R,Campus 2017 4-Year Longitudinal: [Graduates] for Asian Rate (Federal Graduation without Exclusions)
+CRGC417N,Campus 2017 4-Year Longitudinal: [Graduates] for At Risk Numerator (Federal Graduation without Exclusions)
+CRGC417R,Campus 2017 4-Year Longitudinal: [Graduates] for At Risk Rate (Federal Graduation without Exclusions)
+CEGC417N,Campus 2017 4-Year Longitudinal: [Graduates] for Econ Disadv Numerator (Federal Graduation without Exclusions)
+CEGC417R,Campus 2017 4-Year Longitudinal: [Graduates] for Econ Disadv Rate (Federal Graduation without Exclusions)
+CFGC417N,Campus 2017 4-Year Longitudinal: [Graduates] for Female Numerator (Federal Graduation without Exclusions)
+CFGC417R,Campus 2017 4-Year Longitudinal: [Graduates] for Female Rate (Federal Graduation without Exclusions)
+CHGC417N,Campus 2017 4-Year Longitudinal: [Graduates] for Hispanic Numerator (Federal Graduation without Exclusions)
+CHGC417R,Campus 2017 4-Year Longitudinal: [Graduates] for Hispanic Rate (Federal Graduation without Exclusions)
+CLGC417N,Campus 2017 4-Year Longitudinal: [Graduates] for LEP Numerator (Federal Graduation without Exclusions)
+CLGC417R,Campus 2017 4-Year Longitudinal: [Graduates] for LEP Rate (Federal Graduation without Exclusions)
+CMGC417N,Campus 2017 4-Year Longitudinal: [Graduates] for Male Numerator (Federal Graduation without Exclusions)
+CMGC417R,Campus 2017 4-Year Longitudinal: [Graduates] for Male Rate (Federal Graduation without Exclusions)
+C4GC417N,Campus 2017 4-Year Longitudinal: [Graduates] for Pacific Islander Numerator (Federal Graduation without Exclusions)
+C4GC417R,Campus 2017 4-Year Longitudinal: [Graduates] for Pacific Islander Rate (Federal Graduation without Exclusions)
+CSGC417N,Campus 2017 4-Year Longitudinal: [Graduates] for Special Ed Numerator (Federal Graduation without Exclusions)
+CSGC417R,Campus 2017 4-Year Longitudinal: [Graduates] for Special Ed Rate (Federal Graduation without Exclusions)
+C2GC417N,Campus 2017 4-Year Longitudinal: [Graduates] for Two or More Races Numerator (Federal Graduation without Exclusions)
+C2GC417R,Campus 2017 4-Year Longitudinal: [Graduates] for Two or More Races Rate (Federal Graduation without Exclusions)
+CWGC417N,Campus 2017 4-Year Longitudinal: [Graduates] for White Numerator (Federal Graduation without Exclusions)
+CWGC417R,Campus 2017 4-Year Longitudinal: [Graduates] for White Rate (Federal Graduation without Exclusions)
+CB0C4X19D,Campus 2019 4-Year Longitudinal: African American Denominator
+CA0C4X19D,Campus 2019 4-Year Longitudinal: All Students Denominator
+CI0C4X19D,Campus 2019 4-Year Longitudinal: American Indian Denominator
+C30C4X19D,Campus 2019 4-Year Longitudinal: Asian Denominator
+CR0C4X19D,Campus 2019 4-Year Longitudinal: At Risk Denominator
+CL0C4X19D,Campus 2019 4-Year Longitudinal: EL Denominator
+CE0C4X19D,Campus 2019 4-Year Longitudinal: Econ Disadv Denominator
+CF0C4X19D,Campus 2019 4-Year Longitudinal: Female Denominator
+CH0C4X19D,Campus 2019 4-Year Longitudinal: Hispanic Denominator
+CM0C4X19D,Campus 2019 4-Year Longitudinal: Male Denominator
+C40C4X19D,Campus 2019 4-Year Longitudinal: Pacific Islander Denominator
+CS0C4X19D,Campus 2019 4-Year Longitudinal: Special Ed Denominator
+C20C4X19D,Campus 2019 4-Year Longitudinal: Two or More Races Denominator
+CW0C4X19D,Campus 2019 4-Year Longitudinal: White Denominator
+CBNC4X19N,Campus 2019 4-Year Longitudinal: [Continuers] for African American Numerator
+CBNC4X19R,Campus 2019 4-Year Longitudinal: [Continuers] for African American Rate
+CANC4X19N,Campus 2019 4-Year Longitudinal: [Continuers] for All Students Numerator
+CANC4X19R,Campus 2019 4-Year Longitudinal: [Continuers] for All Students Rate
+CINC4X19N,Campus 2019 4-Year Longitudinal: [Continuers] for American Indian Numerator
+CINC4X19R,Campus 2019 4-Year Longitudinal: [Continuers] for American Indian Rate
+C3NC4X19N,Campus 2019 4-Year Longitudinal: [Continuers] for Asian Numerator
+C3NC4X19R,Campus 2019 4-Year Longitudinal: [Continuers] for Asian Rate
+CRNC4X19N,Campus 2019 4-Year Longitudinal: [Continuers] for At Risk Numerator
+CRNC4X19R,Campus 2019 4-Year Longitudinal: [Continuers] for At Risk Rate
+CLNC4X19N,Campus 2019 4-Year Longitudinal: [Continuers] for EL Numerator
+CLNC4X19R,Campus 2019 4-Year Longitudinal: [Continuers] for EL Rate
+CENC4X19N,Campus 2019 4-Year Longitudinal: [Continuers] for Econ Disadv Numerator
+CENC4X19R,Campus 2019 4-Year Longitudinal: [Continuers] for Econ Disadv Rate
+CFNC4X19N,Campus 2019 4-Year Longitudinal: [Continuers] for Female Numerator
+CFNC4X19R,Campus 2019 4-Year Longitudinal: [Continuers] for Female Rate
+CHNC4X19N,Campus 2019 4-Year Longitudinal: [Continuers] for Hispanic Numerator
+CHNC4X19R,Campus 2019 4-Year Longitudinal: [Continuers] for Hispanic Rate
+CMNC4X19N,Campus 2019 4-Year Longitudinal: [Continuers] for Male Numerator
+CMNC4X19R,Campus 2019 4-Year Longitudinal: [Continuers] for Male Rate
+C4NC4X19N,Campus 2019 4-Year Longitudinal: [Continuers] for Pacific Islander Numerator
+C4NC4X19R,Campus 2019 4-Year Longitudinal: [Continuers] for Pacific Islander Rate
+CSNC4X19N,Campus 2019 4-Year Longitudinal: [Continuers] for Special Ed Numerator
+CSNC4X19R,Campus 2019 4-Year Longitudinal: [Continuers] for Special Ed Rate
+C2NC4X19N,Campus 2019 4-Year Longitudinal: [Continuers] for Two or More Races Numerator
+C2NC4X19R,Campus 2019 4-Year Longitudinal: [Continuers] for Two or More Races Rate
+CWNC4X19N,Campus 2019 4-Year Longitudinal: [Continuers] for White Numerator
+CWNC4X19R,Campus 2019 4-Year Longitudinal: [Continuers] for White Rate
+CBDC4X19N,Campus 2019 4-Year Longitudinal: [Dropout] for African American Numerator
+CBDC4X19R,Campus 2019 4-Year Longitudinal: [Dropout] for African American Rate
+CADC4X19N,Campus 2019 4-Year Longitudinal: [Dropout] for All Students Numerator
+CADC4X19R,Campus 2019 4-Year Longitudinal: [Dropout] for All Students Rate
+CIDC4X19N,Campus 2019 4-Year Longitudinal: [Dropout] for American Indian Numerator
+CIDC4X19R,Campus 2019 4-Year Longitudinal: [Dropout] for American Indian Rate
+C3DC4X19N,Campus 2019 4-Year Longitudinal: [Dropout] for Asian Numerator
+C3DC4X19R,Campus 2019 4-Year Longitudinal: [Dropout] for Asian Rate
+CRDC4X19N,Campus 2019 4-Year Longitudinal: [Dropout] for At Risk Numerator
+CRDC4X19R,Campus 2019 4-Year Longitudinal: [Dropout] for At Risk Rate
+CLDC4X19N,Campus 2019 4-Year Longitudinal: [Dropout] for EL Numerator
+CLDC4X19R,Campus 2019 4-Year Longitudinal: [Dropout] for EL Rate
+CEDC4X19N,Campus 2019 4-Year Longitudinal: [Dropout] for Econ Disadv Numerator
+CEDC4X19R,Campus 2019 4-Year Longitudinal: [Dropout] for Econ Disadv Rate
+CFDC4X19N,Campus 2019 4-Year Longitudinal: [Dropout] for Female Numerator
+CFDC4X19R,Campus 2019 4-Year Longitudinal: [Dropout] for Female Rate
+CHDC4X19N,Campus 2019 4-Year Longitudinal: [Dropout] for Hispanic Numerator
+CHDC4X19R,Campus 2019 4-Year Longitudinal: [Dropout] for Hispanic Rate
+CMDC4X19N,Campus 2019 4-Year Longitudinal: [Dropout] for Male Numerator
+CMDC4X19R,Campus 2019 4-Year Longitudinal: [Dropout] for Male Rate
+C4DC4X19N,Campus 2019 4-Year Longitudinal: [Dropout] for Pacific Islander Numerator
+C4DC4X19R,Campus 2019 4-Year Longitudinal: [Dropout] for Pacific Islander Rate
+CSDC4X19N,Campus 2019 4-Year Longitudinal: [Dropout] for Special Ed Numerator
+CSDC4X19R,Campus 2019 4-Year Longitudinal: [Dropout] for Special Ed Rate
+C2DC4X19N,Campus 2019 4-Year Longitudinal: [Dropout] for Two or More Races Numerator
+C2DC4X19R,Campus 2019 4-Year Longitudinal: [Dropout] for Two or More Races Rate
+CWDC4X19N,Campus 2019 4-Year Longitudinal: [Dropout] for White Numerator
+CWDC4X19R,Campus 2019 4-Year Longitudinal: [Dropout] for White Rate
+CB2C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for African American Numerator
+CB2C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for African American Rate
+CA2C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for All Students Numerator
+CA2C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for All Students Rate
+CI2C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for American Indian Numerator
+CI2C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for American Indian Rate
+C32C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Asian Numerator
+C32C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Asian Rate
+CR2C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for At Risk Numerator
+CR2C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for At Risk Rate
+CL2C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for EL Numerator
+CL2C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for EL Rate
+CE2C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Econ Disadv Numerator
+CE2C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Econ Disadv Rate
+CF2C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Female Numerator
+CF2C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Female Rate
+CH2C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Hispanic Numerator
+CH2C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Hispanic Rate
+CM2C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Male Numerator
+CM2C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Male Rate
+C42C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Pacific Islander Numerator
+C42C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Pacific Islander Rate
+CS2C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Special Ed Numerator
+CS2C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Special Ed Rate
+C22C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Two or More Races Numerator
+C22C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Two or More Races Rate
+CW2C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for White Numerator
+CW2C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for White Rate
+CB3C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for African American Numerator
+CB3C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for African American Rate
+CA3C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for All Students Numerator
+CA3C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for All Students Rate
+CI3C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for American Indian Numerator
+CI3C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for American Indian Rate
+C33C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Asian Numerator
+C33C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Asian Rate
+CR3C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for At Risk Numerator
+CR3C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for At Risk Rate
+CL3C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for EL Numerator
+CL3C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for EL Rate
+CE3C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Econ Disadv Numerator
+CE3C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Econ Disadv Rate
+CF3C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Female Numerator
+CF3C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Female Rate
+CH3C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Hispanic Numerator
+CH3C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Hispanic Rate
+CM3C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Male Numerator
+CM3C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Male Rate
+C43C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Pacific Islander Numerator
+C43C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Pacific Islander Rate
+CS3C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Special Ed Numerator
+CS3C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Special Ed Rate
+C23C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Two or More Races Numerator
+C23C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Two or More Races Rate
+CW3C4X19N,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for White Numerator
+CW3C4X19R,Campus 2019 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for White Rate
+CBGC4X19N,Campus 2019 4-Year Longitudinal: [Graduates] for African American Numerator
+CBGC4X19R,Campus 2019 4-Year Longitudinal: [Graduates] for African American Rate
+CAGC4X19N,Campus 2019 4-Year Longitudinal: [Graduates] for All Students Numerator
+CAGC4X19R,Campus 2019 4-Year Longitudinal: [Graduates] for All Students Rate
+CIGC4X19N,Campus 2019 4-Year Longitudinal: [Graduates] for American Indian Numerator
+CIGC4X19R,Campus 2019 4-Year Longitudinal: [Graduates] for American Indian Rate
+C3GC4X19N,Campus 2019 4-Year Longitudinal: [Graduates] for Asian Numerator
+C3GC4X19R,Campus 2019 4-Year Longitudinal: [Graduates] for Asian Rate
+CRGC4X19N,Campus 2019 4-Year Longitudinal: [Graduates] for At Risk Numerator
+CRGC4X19R,Campus 2019 4-Year Longitudinal: [Graduates] for At Risk Rate
+CLGC4X19N,Campus 2019 4-Year Longitudinal: [Graduates] for EL Numerator
+CLGC4X19R,Campus 2019 4-Year Longitudinal: [Graduates] for EL Rate
+CEGC4X19N,Campus 2019 4-Year Longitudinal: [Graduates] for Econ Disadv Numerator
+CEGC4X19R,Campus 2019 4-Year Longitudinal: [Graduates] for Econ Disadv Rate
+CFGC4X19N,Campus 2019 4-Year Longitudinal: [Graduates] for Female Numerator
+CFGC4X19R,Campus 2019 4-Year Longitudinal: [Graduates] for Female Rate
+CHGC4X19N,Campus 2019 4-Year Longitudinal: [Graduates] for Hispanic Numerator
+CHGC4X19R,Campus 2019 4-Year Longitudinal: [Graduates] for Hispanic Rate
+CMGC4X19N,Campus 2019 4-Year Longitudinal: [Graduates] for Male Numerator
+CMGC4X19R,Campus 2019 4-Year Longitudinal: [Graduates] for Male Rate
+C4GC4X19N,Campus 2019 4-Year Longitudinal: [Graduates] for Pacific Islander Numerator
+C4GC4X19R,Campus 2019 4-Year Longitudinal: [Graduates] for Pacific Islander Rate
+CSGC4X19N,Campus 2019 4-Year Longitudinal: [Graduates] for Special Ed Numerator
+CSGC4X19R,Campus 2019 4-Year Longitudinal: [Graduates] for Special Ed Rate
+C2GC4X19N,Campus 2019 4-Year Longitudinal: [Graduates] for Two or More Races Numerator
+C2GC4X19R,Campus 2019 4-Year Longitudinal: [Graduates] for Two or More Races Rate
+CWGC4X19N,Campus 2019 4-Year Longitudinal: [Graduates] for White Numerator
+CWGC4X19R,Campus 2019 4-Year Longitudinal: [Graduates] for White Rate
+CBEC4X19N,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for African American Numerator
+CBEC4X19R,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for African American Rate
+CAEC4X19N,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for All Students Numerator
+CAEC4X19R,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for All Students Rate
+CIEC4X19N,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for American Indian Numerator
+CIEC4X19R,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for American Indian Rate
+C3EC4X19N,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for Asian Numerator
+C3EC4X19R,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for Asian Rate
+CREC4X19N,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for At Risk Numerator
+CREC4X19R,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for At Risk Rate
+CLEC4X19N,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for EL Numerator
+CLEC4X19R,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for EL Rate
+CEEC4X19N,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for Econ Disadv Numerator
+CEEC4X19R,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for Econ Disadv Rate
+CFEC4X19N,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for Female Numerator
+CFEC4X19R,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for Female Rate
+CHEC4X19N,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for Hispanic Numerator
+CHEC4X19R,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for Hispanic Rate
+CMEC4X19N,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for Male Numerator
+CMEC4X19R,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for Male Rate
+C4EC4X19N,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for Pacific Islander Numerator
+C4EC4X19R,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for Pacific Islander Rate
+CSEC4X19N,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for Special Ed Numerator
+CSEC4X19R,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for Special Ed Rate
+C2EC4X19N,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for Two or More Races Numerator
+C2EC4X19R,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for Two or More Races Rate
+CWEC4X19N,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for White Numerator
+CWEC4X19R,Campus 2019 4-Year Longitudinal: [TxCHSE Recipients] for White Rate
+CB0C4X20D,Campus 2020 4-Year Longitudinal: African American Denominator
+CA0C4X20D,Campus 2020 4-Year Longitudinal: All Students Denominator
+CI0C4X20D,Campus 2020 4-Year Longitudinal: American Indian Denominator
+C30C4X20D,Campus 2020 4-Year Longitudinal: Asian Denominator
+CR0C4X20D,Campus 2020 4-Year Longitudinal: At Risk Denominator
+CL0C4X20D,Campus 2020 4-Year Longitudinal: EL Denominator
+CE0C4X20D,Campus 2020 4-Year Longitudinal: Econ Disadv Denominator
+CF0C4X20D,Campus 2020 4-Year Longitudinal: Female Denominator
+CH0C4X20D,Campus 2020 4-Year Longitudinal: Hispanic Denominator
+CM0C4X20D,Campus 2020 4-Year Longitudinal: Male Denominator
+C40C4X20D,Campus 2020 4-Year Longitudinal: Pacific Islander Denominator
+CS0C4X20D,Campus 2020 4-Year Longitudinal: Special Ed Denominator
+C20C4X20D,Campus 2020 4-Year Longitudinal: Two or More Races Denominator
+CW0C4X20D,Campus 2020 4-Year Longitudinal: White Denominator
+CBNC4X20N,Campus 2020 4-Year Longitudinal: [Continuers] for African American Numerator
+CBNC4X20R,Campus 2020 4-Year Longitudinal: [Continuers] for African American Rate
+CANC4X20N,Campus 2020 4-Year Longitudinal: [Continuers] for All Students Numerator
+CANC4X20R,Campus 2020 4-Year Longitudinal: [Continuers] for All Students Rate
+CINC4X20N,Campus 2020 4-Year Longitudinal: [Continuers] for American Indian Numerator
+CINC4X20R,Campus 2020 4-Year Longitudinal: [Continuers] for American Indian Rate
+C3NC4X20N,Campus 2020 4-Year Longitudinal: [Continuers] for Asian Numerator
+C3NC4X20R,Campus 2020 4-Year Longitudinal: [Continuers] for Asian Rate
+CRNC4X20N,Campus 2020 4-Year Longitudinal: [Continuers] for At Risk Numerator
+CRNC4X20R,Campus 2020 4-Year Longitudinal: [Continuers] for At Risk Rate
+CLNC4X20N,Campus 2020 4-Year Longitudinal: [Continuers] for EL Numerator
+CLNC4X20R,Campus 2020 4-Year Longitudinal: [Continuers] for EL Rate
+CENC4X20N,Campus 2020 4-Year Longitudinal: [Continuers] for Econ Disadv Numerator
+CENC4X20R,Campus 2020 4-Year Longitudinal: [Continuers] for Econ Disadv Rate
+CFNC4X20N,Campus 2020 4-Year Longitudinal: [Continuers] for Female Numerator
+CFNC4X20R,Campus 2020 4-Year Longitudinal: [Continuers] for Female Rate
+CHNC4X20N,Campus 2020 4-Year Longitudinal: [Continuers] for Hispanic Numerator
+CHNC4X20R,Campus 2020 4-Year Longitudinal: [Continuers] for Hispanic Rate
+CMNC4X20N,Campus 2020 4-Year Longitudinal: [Continuers] for Male Numerator
+CMNC4X20R,Campus 2020 4-Year Longitudinal: [Continuers] for Male Rate
+C4NC4X20N,Campus 2020 4-Year Longitudinal: [Continuers] for Pacific Islander Numerator
+C4NC4X20R,Campus 2020 4-Year Longitudinal: [Continuers] for Pacific Islander Rate
+CSNC4X20N,Campus 2020 4-Year Longitudinal: [Continuers] for Special Ed Numerator
+CSNC4X20R,Campus 2020 4-Year Longitudinal: [Continuers] for Special Ed Rate
+C2NC4X20N,Campus 2020 4-Year Longitudinal: [Continuers] for Two or More Races Numerator
+C2NC4X20R,Campus 2020 4-Year Longitudinal: [Continuers] for Two or More Races Rate
+CWNC4X20N,Campus 2020 4-Year Longitudinal: [Continuers] for White Numerator
+CWNC4X20R,Campus 2020 4-Year Longitudinal: [Continuers] for White Rate
+CBDC4X20N,Campus 2020 4-Year Longitudinal: [Dropout] for African American Numerator
+CBDC4X20R,Campus 2020 4-Year Longitudinal: [Dropout] for African American Rate
+CADC4X20N,Campus 2020 4-Year Longitudinal: [Dropout] for All Students Numerator
+CADC4X20R,Campus 2020 4-Year Longitudinal: [Dropout] for All Students Rate
+CIDC4X20N,Campus 2020 4-Year Longitudinal: [Dropout] for American Indian Numerator
+CIDC4X20R,Campus 2020 4-Year Longitudinal: [Dropout] for American Indian Rate
+C3DC4X20N,Campus 2020 4-Year Longitudinal: [Dropout] for Asian Numerator
+C3DC4X20R,Campus 2020 4-Year Longitudinal: [Dropout] for Asian Rate
+CRDC4X20N,Campus 2020 4-Year Longitudinal: [Dropout] for At Risk Numerator
+CRDC4X20R,Campus 2020 4-Year Longitudinal: [Dropout] for At Risk Rate
+CLDC4X20N,Campus 2020 4-Year Longitudinal: [Dropout] for EL Numerator
+CLDC4X20R,Campus 2020 4-Year Longitudinal: [Dropout] for EL Rate
+CEDC4X20N,Campus 2020 4-Year Longitudinal: [Dropout] for Econ Disadv Numerator
+CEDC4X20R,Campus 2020 4-Year Longitudinal: [Dropout] for Econ Disadv Rate
+CFDC4X20N,Campus 2020 4-Year Longitudinal: [Dropout] for Female Numerator
+CFDC4X20R,Campus 2020 4-Year Longitudinal: [Dropout] for Female Rate
+CHDC4X20N,Campus 2020 4-Year Longitudinal: [Dropout] for Hispanic Numerator
+CHDC4X20R,Campus 2020 4-Year Longitudinal: [Dropout] for Hispanic Rate
+CMDC4X20N,Campus 2020 4-Year Longitudinal: [Dropout] for Male Numerator
+CMDC4X20R,Campus 2020 4-Year Longitudinal: [Dropout] for Male Rate
+C4DC4X20N,Campus 2020 4-Year Longitudinal: [Dropout] for Pacific Islander Numerator
+C4DC4X20R,Campus 2020 4-Year Longitudinal: [Dropout] for Pacific Islander Rate
+CSDC4X20N,Campus 2020 4-Year Longitudinal: [Dropout] for Special Ed Numerator
+CSDC4X20R,Campus 2020 4-Year Longitudinal: [Dropout] for Special Ed Rate
+C2DC4X20N,Campus 2020 4-Year Longitudinal: [Dropout] for Two or More Races Numerator
+C2DC4X20R,Campus 2020 4-Year Longitudinal: [Dropout] for Two or More Races Rate
+CWDC4X20N,Campus 2020 4-Year Longitudinal: [Dropout] for White Numerator
+CWDC4X20R,Campus 2020 4-Year Longitudinal: [Dropout] for White Rate
+CB2C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for African American Numerator
+CB2C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for African American Rate
+CA2C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for All Students Numerator
+CA2C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for All Students Rate
+CI2C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for American Indian Numerator
+CI2C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for American Indian Rate
+C32C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Asian Numerator
+C32C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Asian Rate
+CR2C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for At Risk Numerator
+CR2C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for At Risk Rate
+CL2C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for EL Numerator
+CL2C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for EL Rate
+CE2C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Econ Disadv Numerator
+CE2C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Econ Disadv Rate
+CF2C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Female Numerator
+CF2C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Female Rate
+CH2C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Hispanic Numerator
+CH2C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Hispanic Rate
+CM2C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Male Numerator
+CM2C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Male Rate
+C42C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Pacific Islander Numerator
+C42C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Pacific Islander Rate
+CS2C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Special Ed Numerator
+CS2C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Special Ed Rate
+C22C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Two or More Races Numerator
+C22C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for Two or More Races Rate
+CW2C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for White Numerator
+CW2C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients + Continuers] for White Rate
+CB3C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for African American Numerator
+CB3C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for African American Rate
+CA3C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for All Students Numerator
+CA3C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for All Students Rate
+CI3C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for American Indian Numerator
+CI3C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for American Indian Rate
+C33C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Asian Numerator
+C33C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Asian Rate
+CR3C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for At Risk Numerator
+CR3C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for At Risk Rate
+CL3C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for EL Numerator
+CL3C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for EL Rate
+CE3C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Econ Disadv Numerator
+CE3C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Econ Disadv Rate
+CF3C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Female Numerator
+CF3C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Female Rate
+CH3C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Hispanic Numerator
+CH3C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Hispanic Rate
+CM3C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Male Numerator
+CM3C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Male Rate
+C43C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Pacific Islander Numerator
+C43C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Pacific Islander Rate
+CS3C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Special Ed Numerator
+CS3C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Special Ed Rate
+C23C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Two or More Races Numerator
+C23C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for Two or More Races Rate
+CW3C4X20N,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for White Numerator
+CW3C4X20R,Campus 2020 4-Year Longitudinal: [Graduates + TxCHSE Recipients] for White Rate
+CBGC4X20N,Campus 2020 4-Year Longitudinal: [Graduates] for African American Numerator
+CBGC4X20R,Campus 2020 4-Year Longitudinal: [Graduates] for African American Rate
+CAGC4X20N,Campus 2020 4-Year Longitudinal: [Graduates] for All Students Numerator
+CAGC4X20R,Campus 2020 4-Year Longitudinal: [Graduates] for All Students Rate
+CIGC4X20N,Campus 2020 4-Year Longitudinal: [Graduates] for American Indian Numerator
+CIGC4X20R,Campus 2020 4-Year Longitudinal: [Graduates] for American Indian Rate
+C3GC4X20N,Campus 2020 4-Year Longitudinal: [Graduates] for Asian Numerator
+C3GC4X20R,Campus 2020 4-Year Longitudinal: [Graduates] for Asian Rate
+CRGC4X20N,Campus 2020 4-Year Longitudinal: [Graduates] for At Risk Numerator
+CRGC4X20R,Campus 2020 4-Year Longitudinal: [Graduates] for At Risk Rate
+CLGC4X20N,Campus 2020 4-Year Longitudinal: [Graduates] for EL Numerator
+CLGC4X20R,Campus 2020 4-Year Longitudinal: [Graduates] for EL Rate
+CEGC4X20N,Campus 2020 4-Year Longitudinal: [Graduates] for Econ Disadv Numerator
+CEGC4X20R,Campus 2020 4-Year Longitudinal: [Graduates] for Econ Disadv Rate
+CFGC4X20N,Campus 2020 4-Year Longitudinal: [Graduates] for Female Numerator
+CFGC4X20R,Campus 2020 4-Year Longitudinal: [Graduates] for Female Rate
+CHGC4X20N,Campus 2020 4-Year Longitudinal: [Graduates] for Hispanic Numerator
+CHGC4X20R,Campus 2020 4-Year Longitudinal: [Graduates] for Hispanic Rate
+CMGC4X20N,Campus 2020 4-Year Longitudinal: [Graduates] for Male Numerator
+CMGC4X20R,Campus 2020 4-Year Longitudinal: [Graduates] for Male Rate
+C4GC4X20N,Campus 2020 4-Year Longitudinal: [Graduates] for Pacific Islander Numerator
+C4GC4X20R,Campus 2020 4-Year Longitudinal: [Graduates] for Pacific Islander Rate
+CSGC4X20N,Campus 2020 4-Year Longitudinal: [Graduates] for Special Ed Numerator
+CSGC4X20R,Campus 2020 4-Year Longitudinal: [Graduates] for Special Ed Rate
+C2GC4X20N,Campus 2020 4-Year Longitudinal: [Graduates] for Two or More Races Numerator
+C2GC4X20R,Campus 2020 4-Year Longitudinal: [Graduates] for Two or More Races Rate
+CWGC4X20N,Campus 2020 4-Year Longitudinal: [Graduates] for White Numerator
+CWGC4X20R,Campus 2020 4-Year Longitudinal: [Graduates] for White Rate
+CBEC4X20N,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for African American Numerator
+CBEC4X20R,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for African American Rate
+CAEC4X20N,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for All Students Numerator
+CAEC4X20R,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for All Students Rate
+CIEC4X20N,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for American Indian Numerator
+CIEC4X20R,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for American Indian Rate
+C3EC4X20N,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for Asian Numerator
+C3EC4X20R,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for Asian Rate
+CREC4X20N,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for At Risk Numerator
+CREC4X20R,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for At Risk Rate
+CLEC4X20N,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for EL Numerator
+CLEC4X20R,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for EL Rate
+CEEC4X20N,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for Econ Disadv Numerator
+CEEC4X20R,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for Econ Disadv Rate
+CFEC4X20N,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for Female Numerator
+CFEC4X20R,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for Female Rate
+CHEC4X20N,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for Hispanic Numerator
+CHEC4X20R,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for Hispanic Rate
+CMEC4X20N,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for Male Numerator
+CMEC4X20R,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for Male Rate
+C4EC4X20N,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for Pacific Islander Numerator
+C4EC4X20R,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for Pacific Islander Rate
+CSEC4X20N,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for Special Ed Numerator
+CSEC4X20R,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for Special Ed Rate
+C2EC4X20N,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for Two or More Races Numerator
+C2EC4X20R,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for Two or More Races Rate
+CWEC4X20N,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for White Numerator
+CWEC4X20R,Campus 2020 4-Year Longitudinal: [TxCHSE Recipients] for White Rate
+CB0C419D,Campus 2019 4-Year Longitudinal: African American Denominator (Federal Graduation without Exclusions)
+CA0C419D,Campus 2019 4-Year Longitudinal: All Students Denominator (Federal Graduation without Exclusions)
+CI0C419D,Campus 2019 4-Year Longitudinal: American Indian Denominator (Federal Graduation without Exclusions)
+C30C419D,Campus 2019 4-Year Longitudinal: Asian Denominator (Federal Graduation without Exclusions)
+CR0C419D,Campus 2019 4-Year Longitudinal: At Risk Denominator (Federal Graduation without Exclusions)
+CL0C419D,Campus 2019 4-Year Longitudinal: EL Denominator (Federal Graduation without Exclusions)
+CE0C419D,Campus 2019 4-Year Longitudinal: Econ Disadv Denominator (Federal Graduation without Exclusions)
+CF0C419D,Campus 2019 4-Year Longitudinal: Female Denominator (Federal Graduation without Exclusions)
+CH0C419D,Campus 2019 4-Year Longitudinal: Hispanic Denominator (Federal Graduation without Exclusions)
+CM0C419D,Campus 2019 4-Year Longitudinal: Male Denominator (Federal Graduation without Exclusions)
+C40C419D,Campus 2019 4-Year Longitudinal: Pacific Islander Denominator (Federal Graduation without Exclusions)
+CS0C419D,Campus 2019 4-Year Longitudinal: Special Ed Denominator (Federal Graduation without Exclusions)
+C20C419D,Campus 2019 4-Year Longitudinal: Two or More Races Denominator (Federal Graduation without Exclusions)
+CW0C419D,Campus 2019 4-Year Longitudinal: White Denominator (Federal Graduation without Exclusions)
+CBGC419N,Campus 2019 4-Year Longitudinal: [Graduates] for African American Numerator (Federal Graduation without Exclusions)
+CBGC419R,Campus 2019 4-Year Longitudinal: [Graduates] for African American Rate (Federal Graduation without Exclusions)
+CAGC419N,Campus 2019 4-Year Longitudinal: [Graduates] for All Students Numerator (Federal Graduation without Exclusions)
+CAGC419R,Campus 2019 4-Year Longitudinal: [Graduates] for All Students Rate (Federal Graduation without Exclusions)
+CIGC419N,Campus 2019 4-Year Longitudinal: [Graduates] for American Indian Numerator (Federal Graduation without Exclusions)
+CIGC419R,Campus 2019 4-Year Longitudinal: [Graduates] for American Indian Rate (Federal Graduation without Exclusions)
+C3GC419N,Campus 2019 4-Year Longitudinal: [Graduates] for Asian Numerator (Federal Graduation without Exclusions)
+C3GC419R,Campus 2019 4-Year Longitudinal: [Graduates] for Asian Rate (Federal Graduation without Exclusions)
+CRGC419N,Campus 2019 4-Year Longitudinal: [Graduates] for At Risk Numerator (Federal Graduation without Exclusions)
+CRGC419R,Campus 2019 4-Year Longitudinal: [Graduates] for At Risk Rate (Federal Graduation without Exclusions)
+CLGC419N,Campus 2019 4-Year Longitudinal: [Graduates] for EL Numerator (Federal Graduation without Exclusions)
+CLGC419R,Campus 2019 4-Year Longitudinal: [Graduates] for EL Rate (Federal Graduation without Exclusions)
+CEGC419N,Campus 2019 4-Year Longitudinal: [Graduates] for Econ Disadv Numerator (Federal Graduation without Exclusions)
+CEGC419R,Campus 2019 4-Year Longitudinal: [Graduates] for Econ Disadv Rate (Federal Graduation without Exclusions)
+CFGC419N,Campus 2019 4-Year Longitudinal: [Graduates] for Female Numerator (Federal Graduation without Exclusions)
+CFGC419R,Campus 2019 4-Year Longitudinal: [Graduates] for Female Rate (Federal Graduation without Exclusions)
+CHGC419N,Campus 2019 4-Year Longitudinal: [Graduates] for Hispanic Numerator (Federal Graduation without Exclusions)
+CHGC419R,Campus 2019 4-Year Longitudinal: [Graduates] for Hispanic Rate (Federal Graduation without Exclusions)
+CMGC419N,Campus 2019 4-Year Longitudinal: [Graduates] for Male Numerator (Federal Graduation without Exclusions)
+CMGC419R,Campus 2019 4-Year Longitudinal: [Graduates] for Male Rate (Federal Graduation without Exclusions)
+C4GC419N,Campus 2019 4-Year Longitudinal: [Graduates] for Pacific Islander Numerator (Federal Graduation without Exclusions)
+C4GC419R,Campus 2019 4-Year Longitudinal: [Graduates] for Pacific Islander Rate (Federal Graduation without Exclusions)
+CSGC419N,Campus 2019 4-Year Longitudinal: [Graduates] for Special Ed Numerator (Federal Graduation without Exclusions)
+CSGC419R,Campus 2019 4-Year Longitudinal: [Graduates] for Special Ed Rate (Federal Graduation without Exclusions)
+C2GC419N,Campus 2019 4-Year Longitudinal: [Graduates] for Two or More Races Numerator (Federal Graduation without Exclusions)
+C2GC419R,Campus 2019 4-Year Longitudinal: [Graduates] for Two or More Races Rate (Federal Graduation without Exclusions)
+CWGC419N,Campus 2019 4-Year Longitudinal: [Graduates] for White Numerator (Federal Graduation without Exclusions)
+CWGC419R,Campus 2019 4-Year Longitudinal: [Graduates] for White Rate (Federal Graduation without Exclusions)
+CB0C420D,Campus 2020 4-Year Longitudinal: African American Denominator (Federal Graduation without Exclusions)
+CA0C420D,Campus 2020 4-Year Longitudinal: All Students Denominator (Federal Graduation without Exclusions)
+CI0C420D,Campus 2020 4-Year Longitudinal: American Indian Denominator (Federal Graduation without Exclusions)
+C30C420D,Campus 2020 4-Year Longitudinal: Asian Denominator (Federal Graduation without Exclusions)
+CR0C420D,Campus 2020 4-Year Longitudinal: At Risk Denominator (Federal Graduation without Exclusions)
+CL0C420D,Campus 2020 4-Year Longitudinal: EL Denominator (Federal Graduation without Exclusions)
+CE0C420D,Campus 2020 4-Year Longitudinal: Econ Disadv Denominator (Federal Graduation without Exclusions)
+CF0C420D,Campus 2020 4-Year Longitudinal: Female Denominator (Federal Graduation without Exclusions)
+CH0C420D,Campus 2020 4-Year Longitudinal: Hispanic Denominator (Federal Graduation without Exclusions)
+CM0C420D,Campus 2020 4-Year Longitudinal: Male Denominator (Federal Graduation without Exclusions)
+C40C420D,Campus 2020 4-Year Longitudinal: Pacific Islander Denominator (Federal Graduation without Exclusions)
+CS0C420D,Campus 2020 4-Year Longitudinal: Special Ed Denominator (Federal Graduation without Exclusions)
+C20C420D,Campus 2020 4-Year Longitudinal: Two or More Races Denominator (Federal Graduation without Exclusions)
+CW0C420D,Campus 2020 4-Year Longitudinal: White Denominator (Federal Graduation without Exclusions)
+CBGC420N,Campus 2020 4-Year Longitudinal: [Graduates] for African American Numerator (Federal Graduation without Exclusions)
+CBGC420R,Campus 2020 4-Year Longitudinal: [Graduates] for African American Rate (Federal Graduation without Exclusions)
+CAGC420N,Campus 2020 4-Year Longitudinal: [Graduates] for All Students Numerator (Federal Graduation without Exclusions)
+CAGC420R,Campus 2020 4-Year Longitudinal: [Graduates] for All Students Rate (Federal Graduation without Exclusions)
+CIGC420N,Campus 2020 4-Year Longitudinal: [Graduates] for American Indian Numerator (Federal Graduation without Exclusions)
+CIGC420R,Campus 2020 4-Year Longitudinal: [Graduates] for American Indian Rate (Federal Graduation without Exclusions)
+C3GC420N,Campus 2020 4-Year Longitudinal: [Graduates] for Asian Numerator (Federal Graduation without Exclusions)
+C3GC420R,Campus 2020 4-Year Longitudinal: [Graduates] for Asian Rate (Federal Graduation without Exclusions)
+CRGC420N,Campus 2020 4-Year Longitudinal: [Graduates] for At Risk Numerator (Federal Graduation without Exclusions)
+CRGC420R,Campus 2020 4-Year Longitudinal: [Graduates] for At Risk Rate (Federal Graduation without Exclusions)
+CLGC420N,Campus 2020 4-Year Longitudinal: [Graduates] for EL Numerator (Federal Graduation without Exclusions)
+CLGC420R,Campus 2020 4-Year Longitudinal: [Graduates] for EL Rate (Federal Graduation without Exclusions)
+CEGC420N,Campus 2020 4-Year Longitudinal: [Graduates] for Econ Disadv Numerator (Federal Graduation without Exclusions)
+CEGC420R,Campus 2020 4-Year Longitudinal: [Graduates] for Econ Disadv Rate (Federal Graduation without Exclusions)
+CFGC420N,Campus 2020 4-Year Longitudinal: [Graduates] for Female Numerator (Federal Graduation without Exclusions)
+CFGC420R,Campus 2020 4-Year Longitudinal: [Graduates] for Female Rate (Federal Graduation without Exclusions)
+CHGC420N,Campus 2020 4-Year Longitudinal: [Graduates] for Hispanic Numerator (Federal Graduation without Exclusions)
+CHGC420R,Campus 2020 4-Year Longitudinal: [Graduates] for Hispanic Rate (Federal Graduation without Exclusions)
+CMGC420N,Campus 2020 4-Year Longitudinal: [Graduates] for Male Numerator (Federal Graduation without Exclusions)
+CMGC420R,Campus 2020 4-Year Longitudinal: [Graduates] for Male Rate (Federal Graduation without Exclusions)
+C4GC420N,Campus 2020 4-Year Longitudinal: [Graduates] for Pacific Islander Numerator (Federal Graduation without Exclusions)
+C4GC420R,Campus 2020 4-Year Longitudinal: [Graduates] for Pacific Islander Rate (Federal Graduation without Exclusions)
+CSGC420N,Campus 2020 4-Year Longitudinal: [Graduates] for Special Ed Numerator (Federal Graduation without Exclusions)
+CSGC420R,Campus 2020 4-Year Longitudinal: [Graduates] for Special Ed Rate (Federal Graduation without Exclusions)
+C2GC420N,Campus 2020 4-Year Longitudinal: [Graduates] for Two or More Races Numerator (Federal Graduation without Exclusions)
+C2GC420R,Campus 2020 4-Year Longitudinal: [Graduates] for Two or More Races Rate (Federal Graduation without Exclusions)
+CWGC420N,Campus 2020 4-Year Longitudinal: [Graduates] for White Numerator (Federal Graduation without Exclusions)
+CWGC420R,Campus 2020 4-Year Longitudinal: [Graduates] for White Rate (Federal Graduation without Exclusions)
+CAMPNAME,Campus Name
+DISTNAME,District Name
+DISTRICT,District Number
